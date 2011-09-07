@@ -1,0 +1,7 @@
+#Wed Sep 07 21:54:42 BST 2011
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.exe.release.187310403/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.release.187310403/LD_LIBRARY_PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.exe.release.187310403/LD_LIBRARY_PATH/value=${CS_DIR}\:${CAL3D_DIR}/src/.libs\:/usr/lib/jvm/java-6-openjdk/jre/lib/amd64/server\:/usr/lib/jvm/java-6-openjdk/jre/lib/amd64\:/usr/lib/jvm/java-6-openjdk/jre/../lib/amd64
+environment/project/cdt.managedbuild.config.gnu.exe.release.187310403/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.release.187310403/appendContributed=true
