@@ -9,4 +9,18 @@ include/psstdint.h
 out/
 Jamconfig
 Jamfile
+*.so
+*.[ao]
+*.dbg
+eedit
+ccheck
+navgen
+pawseditor
+psclient
+pslaunch
+psnpcclient
+psserver
+worldeditor
+testrpgrules
+
 
